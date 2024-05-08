@@ -671,7 +671,7 @@ test('Parse GROUP BY query with JOIN and WHERE clauses', () => {
         hasAggregateWithoutGroupBy: false,
         orderByFields: null,
         "limit": null,
-        isDistinct: false
+        isDistinct: false,
     });
 });
 
