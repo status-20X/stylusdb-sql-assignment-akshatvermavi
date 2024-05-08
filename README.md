@@ -24,3 +24,26 @@ This database is for educational purposes only. It is not intended for productio
 - [ ] SQL Spec Tracker
 - [ ] Minimal PostgreSQL Protocol for Server/Client Communication
 
+# StylusDB SQL
+
+This repository contains the base code for StylusDB SQL, a database system written in JavaScript for educational purposes.
+
+## Getting Started
+
+[Provide brief instructions on how to get started with the project.]
+
+## Documentation
+
+Check out the `docs/tutorial.md` file for a step-by-step tutorial on using StylusDB SQL.
+
+## Contributing
+
+[Include guidelines for contributing to the project.]
+
+## License
+
+[Include the license text and specify the license for the project.]
+
+## Disclaimer
+
+[Include the disclaimer emphasizing that the database is for educational purposes only.]
